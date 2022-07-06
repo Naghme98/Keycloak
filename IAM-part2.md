@@ -1,4 +1,4 @@
-# Identity and Access Management (IAM) - 2
+# Identity and Access Management part 2
 
 ## Task 1: Fine-grained access
 
